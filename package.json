@@ -1,0 +1,24 @@
+{
+  "name": "hexo-tag-emojis-byhj",
+  "version": "1.0.0",
+  "description": "hexo-tag-emojis-byhj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honjun/hexo-tag-emojis-byhj.git"
+  },
+  "keywords": [
+    "hexo",
+    "tag",
+    "emoji"
+  ],
+  "author": "hojun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/honjun/hexo-tag-emojis-byhj/issues"
+  },
+  "homepage": "https://github.com/honjun/hexo-tag-emojis-byhj#readme"
+}
