@@ -4,7 +4,7 @@
 npm i hexo-tag-emojis-byhj --save
 ```
 ## 使用
-使用之前先要引入css:(建议在文章模板页引入，因为你只在写文章的时候使用表情，按需加载)
+使用之前先要引入css:(建议在文章模板页引入，因为你只在写文章的时候使用表情，按需加载)。当然也可以不引人css，自己写一个css样式，以下的css只是.emoji-hj的表情图片的样式，主要就是控制大小、行内块元素以及hover能跳动的css动画。有更好的css样式可以自由发挥。而且欢迎pr到github仓库。
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/honjun/hexo-tag-emojis-byhj/css/emoji.css">
 ```
